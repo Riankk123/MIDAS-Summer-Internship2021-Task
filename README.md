@@ -19,7 +19,7 @@ Basically :
   </li>
 </ul>
 <h2>How to run the Repo ? </h2>
-First download the repository. Open the python notebooks , in which the names of the python notebooks are self explanatory, i.e., MIDAS_Task_2_Step_1.ipynb signifies the notebook for step 1 of Task 2 and so on. Then write the path names accoridng to the local system and then execute the cells of the notebook . 
+First download the repository and the requirements. Open the python notebooks , in which the names of the python notebooks are self explanatory, i.e., MIDAS_Task_2_Step_1.ipynb signifies the notebook for step 1 of Task 2 and so on. Then write the path names accoridng to the local system and then execute the cells of the notebook . 
 
 
   
