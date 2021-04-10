@@ -1,5 +1,5 @@
 # MIDAS-2021-Task
-The model checkpoints have been uploaded in the form of zip file. Please ignore the numbers which are written after the model names .
+The model checkpoints have been uploaded in the form of zip file.
 Basically :
 <ul>
   <li>
@@ -18,6 +18,8 @@ Basically :
     ThirdModelPreTrained - Model Checkpoints for Pretrained Model Trained in Step 3.
   </li>
 </ul>
+<h2>How to run the Repo ? </h2>
+First download the repository. Open the python notebooks , in which the names of the python notebooks are self explanatory, i.e., MIDAS_Task_2_Step_1.ipynb signifies the notebook for step 1 of Task 2 and so on. Then write the path names accoridng to the local system and then execute the cells of the notebook . 
 
 
   
